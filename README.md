@@ -1,0 +1,2 @@
+# tradingbot
+sentiment + trading signal 
