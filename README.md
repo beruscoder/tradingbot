@@ -1,3 +1,5 @@
+video:https://drive.google.com/file/d/1_N4C1rR56mufIJtQSWqwskUHOeBXfyX6/view?usp=drivesdk
+
 # Stock Sentiment Pipeline: End-to-End Documentation
 
 ## Overview
