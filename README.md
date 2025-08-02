@@ -1,4 +1,4 @@
-video:https://drive.google.com/file/d/1_N4C1rR56mufIJtQSWqwskUHOeBXfyX6/view?usp=drivesdk
+video explaination :https://drive.google.com/file/d/1_N4C1rR56mufIJtQSWqwskUHOeBXfyX6/view?usp=drivesdk
 
 # Stock Sentiment Pipeline: End-to-End Documentation
 
@@ -249,7 +249,7 @@ python main.py --ticker-file nas.csv --output-file stock_final_scores.csv --geog
   <img width="1600" height="900" alt="Screenshot from 2025-07-24 21-37-59" src="https://github.com/user-attachments/assets/445c8b99-e9e9-40ea-b545-d27739d4e2ff" />
   <img width="1600" height="900" alt="Screenshot from 2025-07-24 21-37-15" src="https://github.com/user-attachments/assets/c1a3e1e6-8bb7-4484-840a-47b9a17dc7a0" />
 
-  video explaination
+  
   
 
 
